@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Riyadh</title>
+</head>
+<figure>
+<img  src="https://png.pngtree.com/png-vector/20220615/ourmid/pngtree-riyadh-city-skyline-silhouette-background-png-image_5083553.png">
+</figure>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet">
+<body>
+    <div id="con">
+        <header>
+            <h1>Riyadh</h1>
+        </header>
+            <nav>
+                <label>
+                    <div class="flex">
+                        <a class="itim-regular" href="/Main.html" >Home</a>  <a class="itim-regular" href="oo.html">Riyadh</a>
+                    </div>
+                </label>
+            </nav>
+                <article>
+                    <div class="restaurant">
+                    <a  >Restaurants To visit</a>					
+                    <div class="card1">
+					<a class="pol" href="https://aseeb.com.sa/" onmouseover="color:blue" target="_blank" style=" margin: 0%; display: flex; flex-direction: column;" > <u>ASEEB</u></a><br>
+                        <div class="cardf">
+                            <img class="imgs1" src="https://app.aseeb.com.sa/assets/74580773-413a-4388-a113-3bdb650d0a2b" alt="">
+                            <img class="imgs1"  src="https://app.aseeb.com.sa/assets/ac51d265-c408-4380-aeed-34863169f79c" alt="" >
+                        </div>                       
+                        <div style=" display: block; width: 100%;">
+                           <br> <p><br>A family Restaurant that transferre the experience of home cooking to their restaurant based on the foundations of the Najdi cuisine, Aseeb distinguished itself through the use of palm fronds in cooking, adding a unique flavour and personality to the restaurant, and become the first destination to get to know the Najdi cultural cuisine.<br><a class="rat" href="https://maps.app.goo.gl/R3tA5r77TBrAapuR9" target="_blank">Rating:4.5&starf;</a></p>                          
+                        </div>
+					</div>					
+					<div class="card1">
+					<a class="pol" href="https://8-portions.yallaqrcodes.com/?_gl=1*1ef7ky2*_ga*NzA0MDU4MDEyLjE2NTU3NTkzNjM.*_ga_5DS0R5MF9N*MTY1NTc2MzMwMy4yLjAuMTY1NTc2MzMwMy4w" onmouseover="color:blue" target="_blank" style=" margin: 0%; display: flex; flex-direction: column;" > <u>8PORTIONS PIZZA</u></a><br>
+                        <div class="cardf">
+                            <img class="imgs1" src="https://media-cdn.tripadvisor.com/media/photo-s/15/f2/36/a6/caption.jpg" alt="">
+                            <img class="imgs1"  src="https://www.almosaferoon.com/wp-content/uploads/2024/07/8-portions-pizza-dhahran.jpg" alt="" >
+                        </div>                       
+                        <div style=" display: block; width: 100%;">
+                           <br> <p>A saudi restaurant that offers Napoli-style pizza and a lot of different dishes from the Italian cuisine and also dishes from different cuisines, like the Deliseos chicken fillets and chicken wings, is also known for having a true taste of pizzas flavor from different calusers, like the South African pizza.<br><a class="rat" href="https://maps.app.goo.gl/K8G5tQ9qDHeufhr38" target=blank">Rating:4.6&starf;</a></p>                            
+                       </div>                  
+                    </div>					
+					<div class="card1">
+					<a class="pol" href="https://linktr.ee/mamanoura?utm_source=linktree_profile_share&ltsid=6d1a70a8-ee96-4fdf-a207-37e68f4433b1" onmouseover="color:blue" target="_blank" style=" margin: 0%; display: flex; flex-direction: column;" > <u>MAMA NOURA</u></a><br>
+                        <div class="cardf">
+                            <img class="imgs1" src="https://scontent.fdmm2-3.fna.fbcdn.net/v/t39.30808-6/245637819_1325290597904699_8400218486531402327_n.jpg?stp=dst-jpg_p851x315&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=2otlwR3YrYMQ7kNvgHX5UCL&_nc_zt=23&_nc_ht=scontent.fdmm2-3.fna&_nc_gid=AXF0U4WYlmeEEwxseuk436L&oh=00_AYDftsu4sEc7RXcmL9jHhnu_wLcKxNsbbdDZrMXGMOXD0A&oe=67399E7F" alt="">
+                            <img class="imgs1"  src="https://ib7ath.com/wp-content/uploads/2024/05/%D9%85%D8%A7%D9%85%D8%A7-%D9%86%D9%88%D8%B1%D9%87-%D8%B4%D8%A7%D8%B1%D8%B9-%D8%A7%D9%84%D8%B6%D8%A8%D8%A7%D8%A8-1.jpg" alt="" >
+                        </div>                       
+                        <div style=" display: block; width: 100%;">
+                           <br> <p><br>SAUDI RESTURANT THAT OFFERS ALOT OF DIFFERENT OPTIONS AND WILL KNOWN FOR THIR SHAWARMA AND BROASTED AND ALSO KNOWN FOR THIR CHIPE PRICE.<br><br><a class="rat" href="https://maps.app.goo.gl/MjCGYkBLxEccfRVN8" target=_blank">Rating:4.3&starf;</a></p>                           
+                        </div>                    
+                    </div>                   
+</div>					
+					 <a>  </a>					
+					<div class="tours">
+					<a  >Tourists Activities </a>
+						<div class="card2">
+                        <div class="cardf">                            
+					<a class="pol" href="https://book.visitsaudi.com/sa-en/experiences/Riyadh/Nature/umm-alhish-the-empty-quarter-bride?_ga=2.244359501.972879769.1731557008-92014813.1731018903&_gl=1*1jugyie*_gcl_au*MTM4NjY2MzE1MC4xNzMxMDE4OTA5" onmouseover="color:blue" target="_blank" style=" margin: 0%; display: flex; flex-direction: column;" > <u>5-Day Adventure To The Empty Quarter</u></a><br>
+                        <div class="cardf">
+                            <img class="imgs1" src="https://book.visitsaudi.com/_next/image?url=%2Fapi%2Fimage-proxy%3Furl%3Dhttps%253A%252F%252Fhalayallaimages-new.s3.me-south-1.amazonaws.com%252Fimages%252Fvenues%252Fprovider_venue_6649ed88d784d.&w=1920&q=85" alt="">
+                            <img class="imgs1"  src="https://book.visitsaudi.com/_next/image?url=%2Fapi%2Fimage-proxy%3Furl%3Dhttps%253A%252F%252Fhalayallaimages-new.s3.me-south-1.amazonaws.com%252Fimages%252Fvenues%252Fprovider_venue_6649ed8a399c5.&w=1920&q=85" alt="" >
+                        </div>                        
+                        <div style=" display: block; width: 100%;">
+                           <br> <p> time to hit the road with Ghamra to the Rub’ al Khali ( the Empty Quarter).
+A one of a kind trip in which you unlock a new level of adventure, open a time capsule that takes you back in time to a land of sand where you can enjoy the virgin nature and have a break from the city hustle and bustle.<br><a class="rat" href="https://book.visitsaudi.com/sa-en/experiences/Riyadh/Nature/umm-alhish-the-empty-quarter-bride/book" target=_blank"><br>Book</a></p>     
+                        </div>
+                    </div>
+					</div>					
+                    <div class="card2">
+                        <div class="cardf">                           
+					<a class="pol" href="https://book.visitsaudi.com/sa-en/experiences/riyadh/Culture_History/full-day-riyadh-city-tour-1" onmouseover="color:blue" target="_blank" style=" margin: 0%; display: flex; flex-direction: column;" > <u>Full Day Riyadh City Tour</u></a><br>
+                        <div class="cardf">
+                            <img class="imgs1" src="https://book.visitsaudi.com/_next/image?url=%2Fapi%2Fimage-proxy%3Furl%3Dhttps%253A%252F%252Fhalayallaimages-new.s3.me-south-1.amazonaws.com%252Fimages%252Fvenues%252Fprovider_venue_66e96577be7c2.&w=1920&q=85" alt="">
+                            <img class="imgs1"  src="https://book.visitsaudi.com/_next/image?url=%2Fapi%2Fimage-proxy%3Furl%3Dhttps%253A%252F%252Fhalayallaimages-new.s3.me-south-1.amazonaws.com%252Fimages%252Fvenues%252Fprovider_venue_66e9657902b62.&w=1920&q=85" alt="" >
+                        </div>                       
+                        <div style=" display: block; width: 100%;">
+                           <br> <p>The tour start by visiting the primary custodian of the Saudi national heritage and culture, the National Museum. Today it is a place of learning and discovery that hosts a unique collection of artefacts and covers the whole history of the Arabian Peninsula up to the modern era and Continua whit a lot more historical and natural places<br><a class="rat" href="https://book.visitsaudi.com/sa-en/experiences/riyadh/Culture_History/full-day-riyadh-city-tour-1/book" target=_blank">Book</a></p>                            
+                        </div>                    
+                    </div>                               
+                       </div>					   
+					   <div class="card2">
+                        <div class="cardf">                           
+					<a class="pol" href="https://book.visitsaudi.com/sa-en/experiences/Riyadh/Nature/crossing-the-empty-quarter-um-ahesh-lake-trip?_ga=2.220768592.972879769.1731557008-92014813.1731018903&_gl=1*j3awd0*_gcl_au*MTM4NjY2MzE1MC4xNzMxMDE4OTA5" onmouseover="color:blue" target="_blank" style=" margin: 0%; display: flex; flex-direction: column;" > <u>Um Alhesh Lake Trip</u></a><br>
+                        <div class="cardf">
+                            <img class="imgs1" src="https://book.visitsaudi.com/_next/image?url=%2Fapi%2Fimage-proxy%3Furl%3Dhttps%253A%252F%252Fhalayallaimages-new.s3.me-south-1.amazonaws.com%252Fimages%252Fvenues%252Fprovider_venue_64f633497f995.&w=1920&q=85" alt="">
+                            <img class="imgs1"  src="https://book.visitsaudi.com/_next/image?url=%2Fapi%2Fimage-proxy%3Furl%3Dhttps%253A%252F%252Fhalayallaimages-new.s3.me-south-1.amazonaws.com%252Fimages%252Fvenues%252Fprovider_venue_64f45aad1e73c.&w=1920&q=85" alt="" >
+                        </div>              
+                        <div style=" display: block; width: 100%;">
+                           <br> <p>One of the most thrilling tourist adventures is crossing the Empty Quarter, covering a distance of approximately 1,200 kilometers within the sandy dunes. Starting from the northwestern part (Haradh) and passing through Umm Al-Hadid, all the way to the Heart of Baida Lahi in the southeastern part of the Empty Quarter you'll explore a variety of terrains in the region.<br><a class="rat" href="https://book.visitsaudi.com/sa-en/experiences/Riyadh/Nature/crossing-the-empty-quarter-um-ahesh-lake-trip/book" target=_blank">Book</a></p>                            
+                        </div>                    
+                    </div>
+					</div>	
+</div>				 
+                    <a>family <span style="color: #ff002f; filter: drop-shadow(2px 1px 7px rgb(248, 59, 59));"> activities</span>  </a>
+					<div class="family">
+                    <div class="card3">
+                        <div class="cardf">                          
+					<a class="pol" href="https://www.visitsaudi.com/en/riyadh/attractions/the-national-museum-of-saudi-arabia" onmouseover="color:blue" target="_blank" style=" margin: 0%; display: flex; flex-direction: column;" > <u>Saudi National Museum</u></a><br>
+                        <div class="cardf">
+                            <img class="imgs1" src="https://worldlist.vision/files/1192/sight_pic_big_4934.jpg" alt="">
+                            <img class="imgs1"  src="https://www.cuddlynest.com/blog/wp-content/uploads/2024/04/national_museum_of_saudi_arabia_man_and_the_universe.png" alt="" >
+                        </div>                       
+                        <div style=" display: block; width: 100%;">
+                           <br> <p>From the Earth to the moon, and from the prehistoric ages to the modern ages, the hallways of the Saudi National Museum will take you on an adventure that transcends time and space. You will witness artistic and historical evidence in the heart of Riyadh in Al Murabba neighborhood near King Abdulaziz palace. The museum was opened in 1419H and spans across a distance of 17,000Km2 where it tells the story of 3,700 artifacts such as statues, scripts and unique sculptures.<br><a class="rat" href="" target=_blank"></a></p>                            
+                        </div>                   
+                    </div>
+					</div>					
+                    <div class="card3">
+                        <div class="cardf">                           
+					<a class="pol" href="https://www.visitsaudi.com/en/riyadh/attractions/riyadh-zoo" onmouseover="color:blue" target="_blank" style=" margin: 0%; display: flex; flex-direction: column;" > <u>Riyadh Zoo</u></a><br>
+                        <div class="cardf">
+                            <img class="imgs1" src="https://scth.scene7.com/is/image/scth/rare-white-tiger-at-the-riyadh-zoo-1:crop-1920x1080?defaultImage=rare-white-tiger-at-the-riyadh-zoo-1&wid=1920&hei=1080" alt="">
+                            <img class="imgs1"  src="https://www.visitsaudi.com/content/dam/wvs/destinations/riyadh/two-giraffes-at-the-riyadh-zoo.jpg" alt="" >
+                        </div>
+                        
+                        <div style=" display: block; width: 100%;">
+                           <br> <p>A visit to the zoo in a foreign country can be extremely gratifying as few language skills are needed — just an appreciation for animals. And the Riyadh Zoo is no exception. It is home to more than 1,300 animals from 190 species, which live in six protected areas. To find it, simply head to the Al Malaz neighborhood of Riyadh, and be sure to book your tickets ahead of time.<br><a class="rat" href="" target=_blank"></a></p>  
+                        </div>
+                    </div>
+					</div>					
+                    <div class="card3" style="display:inline-block;">
+                        <div class="cardf">                            
+					<a class="pol" href="https://www.visitsaudi.com/en/riyadh/attractions/king-fahad-national-library" onmouseover="color:blue" target="_blank" style=" margin: 0%; display: flex; flex-direction: column;" > <u>King Fahad National Library</u></a><br>
+                        <div class="cardf">
+                            <img class="imgs1" src="https://scth.scene7.com/is/image/scth/king-fahad-Iibrary-en-1:crop-1920x1080?defaultImage=king-fahad-Iibrary-en-1&wid=1920&hei=1080" alt="">
+                            <img class="imgs1"  src="https://www.visitsaudi.com/content/dam/wvs/destinations/riyadh/king-fahad-national-library.jpg" alt="" >
+                        </div>                       
+                        <div style=" display: block; width: 100%;">
+                           <br> <p>A huge source of information and an amazing architectural masterpiece, King Fahad National Library is located on King Fahad road in Olaya district with an area of about 87,000 square meters. Come and discover King Fahad National Library and all the exceptional content and services.<br><a class="rat" href="" target=_blank"></a></p>                           
+                        </div>                   
+                    </div>
+					</div>
+                  </div>
+                    <footer >
+                       
+                    </footer>
+            </article>      
+    </div> 
+</body>
+</html>
+<style>
+
+
+    *{
+        margin: 0;
+        padding: 0%;
+    }
+    body{
+        background-color: #207000;
+    }
+
+    .logo{
+        display:inline-block;
+        width: 30% ;
+        margin: 0%;
+        padding: 0%;
+        column-gap: 10px;
+        object-fit: contain;
+    }
+
+        #logo1:hover{
+            transition: 0.2s;
+            transition-delay: 0.1s;
+            scale: 1.3;
+        }
+
+    header{
+       
+        text-align: center;
+        }
+   
+    nav a { 
+            font-size:200% ;
+            /* padding: 1%; */
+            color: bisque;
+            filter: drop-shadow(2px 1px 4px black);
+            text-decoration: none;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            transition: 0.5s ease;
+            }
+           nav div a:hover  {
+                color: #000000;
+                transition: 0.5s;
+                scale: 1.3;
+                margin:1%;
+                }
+            .imgs1:hover{
+                transform: scale(1.8);
+                border-radius: 11%;
+                filter: drop-shadow(black 1rem 1rem 10px);
+            }
+          article a{
+                transition: 0.2s;}
+            article a:hover {
+                
+                font-size: 130%;
+                margin-left:2%;
+                 
+            }
+            .itim-regular {
+            font-family: "Itim", cursive;
+            font-weight: 400;
+            font-style: normal;} 
+    .flex{
+        display: flex;
+        flex-direction: row;
+        justify-content:space-evenly;
+        align-items: center; }
+
+        #con{
+            background-color: #207000;
+        }
+		.restaurant{display:inline;}
+.pol:hover {
+  color: blue;
+}
+.rat{padding-right:20em;
+
+font-size:1.5em;}
+.rat:hover {
+  color: blue;
+  
+}
+        article{
+            font-size: 120%;
+            margin: 1%;
+            background-color: bisque;
+            
+        }
+
+		
+        .imgs1{
+            display: flex;
+            flex-direction: row;
+            width:49%;
+            transition: 0.5s ease ;
+            border-radius: 2%;
+            display: flex;
+            overflow: auto;
+          
+            justify-content: center; }
+
+          
+        .card1{
+            align-items: center;
+            background-color: white;
+            border-radius: 6%;
+            padding: 1%;
+			
+		padding-left:1em;
+            width:525px;
+			height:450px;
+            text-align:center;
+            margin:1em;
+            object-fit: contain; 
+            display:inline-block;
+		 
+        }
+		 .card2{
+            align-items: center;
+            background-color: white;
+            border-radius: 6%;
+            padding: 1%;
+            max-width: 40%;
+            text-align: center;
+            margin: auto;
+            object-fit: contain; 
+            
+        }
+		.card3{
+             align-items: center;
+            background-color: white;
+            border-radius: 6%;
+            padding: 1%;
+			
+		padding-left:1em;
+            width:525px;
+			height:450px;
+            text-align:center;
+            margin:1em;
+            object-fit: contain; 
+            display:inline-block;
+            
+        }
+                .cardf{
+                    display: flex;
+                    flex-direction: row;
+                    flex-wrap: wrap;
+                    justify-content:space-evenly;
+                    gap: 5px;
+                }
+
+            .arrow{
+                width: 10%;
+                float: right;
+                transition: 0.5s;
+                
+                
+            }
+            .arrow:hover{
+               
+                transform: scale(1.6);
+            }
+        h1{
+            margin-left: 3%;}
+
+        article a{  
+            text-align: center;
+            display: block;
+            transition: 0.3s ease;
+            color: black;
+            text-decoration: none;
+            margin: 2%;
+            font-size: 150%;
+        }
+
+        footer{
+            color: rgb(255, 255, 255);
+            background-color: #000000;
+            display: flex;
+            justify-content: center;
+            padding: 1%;
+            margin-bottom: 0%;
+            
+        }
+
+        footer p{
+            padding: 1%;
+
+        }
+	 
+	 @media screen and (max-width:1500px){
+	 figure{display:none;}
+	
+	 .card1{display:inline-block;}
+	 }
+	 .card2{display:inline-block;}
+	 .card2{width:525px; height:450px;}
+	 .card2{margin:1em;}
+	 .card2{padding-left:1.5em;}
+	 figure{padding-left:35%;}	 
+	 figure{width:600px;}
+	 figure{padding-bottom:0em;}
+</style>
