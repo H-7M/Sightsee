@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration</title>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Registration</h1>
+    </header>
+    
+    <form action="i.html" onsubmit="return validateName()">
+   
+<div class="Input">
+         <label for="I">Name:</label>
+      <!-- Name -->
+      <input id="I" name="Name" type="text" placeholder="Enter Your Name" required>
+      <p></p>
+      <label for="E">Email:</label>
+      <!-- Email -->
+      <input id="E" name="Email" type="email" placeholder="somthing@simple.com" required>
+      <p></p>
+       
+      <!-- Submit Button -->
+      <input id="b" name="button" value="Register" type="submit"/>
+        <!-- Back Button -->
+  <button onclick="goBack()">Go Back</button>
+
+  
+    </form>
+    </div>
+  </div>
+</body>
+</html>
+
+<script>
+    function goBack() {
+      window.history.back(); // This takes the user to the previous page in history
+    }
+  </script>
+
+
+
+<style>
+h1 { 
+      text-align:center;
+       color:white;
+            }
+body {     text-align:center;
+
+background:green;
+}
+#back{
+margin-left:-500px;
+}
